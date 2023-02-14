@@ -31,8 +31,8 @@ Users should be able to:
 
 ### Links
 
--   Solution URL: [Add solution URL here](https://your-solution-url.com)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Solution URL: [https://github.com/xPolarium/order-summary-component-frontendmentor](https://github.com/xPolarium/order-summary-component-frontendmentor)
+-   Live Site URL: [https://xpolarium.github.io/order-summary-component-frontendmentor/](https://xpolarium.github.io/order-summary-component-frontendmentor/)
 
 ### Built with
 
